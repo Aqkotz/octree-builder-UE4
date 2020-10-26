@@ -1,0 +1,1 @@
+Subdivides an octree in a 3d environment. Creates a system of boxes that well approximate the open space in their environment by increasing resolution near objects.
